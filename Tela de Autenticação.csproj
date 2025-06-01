@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Banco\" />
+    <PackageReference Include="System.Data.OleDb" Version="9.0.5" />
   </ItemGroup>
 
 </Project>
